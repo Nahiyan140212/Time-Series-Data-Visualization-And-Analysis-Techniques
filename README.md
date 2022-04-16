@@ -3,7 +3,7 @@
 
 In this Notebook we are going to see different data visualization techniques for time series analysis. we will also discuss the different tasks we can consider for a better understanding, exploration and anlysis, while working with time series datasets.
 
-the dataset: Average daily temprature of different cities around globe from 1995 to 2020
+Dataset: Average daily temperature of different cities around the globe from 1995 to 2020
 
 Agenda:
 
